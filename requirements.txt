@@ -1,0 +1,11 @@
+# If your project has any requirements not included in anaconda, include them here
+
+
+# Setup - run this cell before doing the next part of the assignment
+#   This cell imports some extra code, making it available for us to use later
+
+import random
+import string
+
+from time import sleep
+from IPython.display import clear_output
