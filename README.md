@@ -1,4 +1,4 @@
-# Cogs 18 (Spring 2019) Final Project
+# Cogs 18: Introduction to Python (Spring 2019) Final Project
 
 ## Description
 I decided to implement the game 2048 (http://2048game.com/). The object of the game is to reach the 2048 tile by sliding the tiles left, right, up, or down and combining tiles of the same number values (powers of 2's: 2,4,8,..).
